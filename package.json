@@ -1,0 +1,26 @@
+{
+  "name": "arcade.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.2",
+    "discord.js": "^11.5.0",
+    "quickdb": "^1.0.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcadeio/arcadeio.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/arcadeio/arcadeio/issues"
+  },
+  "homepage": "https://github.com/arcadeio/arcadeio#readme",
+  "description": ""
+}
